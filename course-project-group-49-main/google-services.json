@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119461229225",
+    "project_id": "filmfinder-ac9fe",
+    "storage_bucket": "filmfinder-ac9fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119461229225:android:d0a94c62fe4bd9d0e96fb8",
+        "android_client_info": {
+          "package_name": "com.uiuc.filmfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119461229225-4pslbincoibg0er214vqe21iafr6s310.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7sM2pUr9kbudLnPKkKTjVT0JgfEupAp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119461229225-4pslbincoibg0er214vqe21iafr6s310.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

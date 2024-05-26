@@ -1,0 +1,7 @@
+firebase-admin
+python-dotenv
+flask
+flask-restful
+pyrebase4
+jquery 
+flask-cors

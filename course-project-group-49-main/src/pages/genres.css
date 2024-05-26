@@ -1,0 +1,34 @@
+.Genres {
+    text-align: center;
+  }
+  
+  .genre-logo {
+    position: relative;
+    bottom: 3px;
+  }
+  
+  .genre-header {
+    background-color: #ffffff;
+    /* min-height: 100vh; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    margin: auto;
+  }
+  .genre-btn {
+    font-size: 24px;
+    padding: 60px 100px;
+    border-radius: 12px;
+    background-color: lightgray;
+    margin: 10px;
+    font-family: 'Lucida Console';
+  }
+  
+  .genre-btn:hover {
+    /* background-color: grey; navy blue */
+    background-color: #BBE6FE;
+  }
+
+  

@@ -1,0 +1,48 @@
+.Animation {
+    text-align: center;
+  }
+  
+  .animation-logo {
+    position: relative;
+    top: -16px;
+    right: -500px;
+  }
+  
+  .animation-header {
+    background-color: #ffffff;
+    /* min-height: 100vh; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    margin: auto;
+  }
+
+  .btn {
+    font-size: 24px;
+    padding: 60px 100px;
+    border-radius: 12px;
+    background-color: grey;
+  }
+
+  .left-padding {
+    width:100px;
+    height:auto;
+    display:inline-block;
+  }
+
+  .right-padding {
+    width:500px;
+    height:auto;
+    display:inline-block;
+  }
+
+  .divider{
+    width:500px;
+    height:auto;
+    display:inline-block;
+}
+  
+
+  

@@ -1,0 +1,76 @@
+.Genres {
+    text-align: center;
+  }
+  
+  .logo {
+    bottom: 2px;
+    height: 50px;
+  }
+  
+  .header {
+    background-color: #ffffff;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    margin: auto;
+    float: left;
+    position: absolute;
+    top: 0;
+  }
+  
+  .label {
+    font-size: 40pt;
+    text-align: center;
+    position:relative;
+    font-family: 'Lucida Console';
+  }
+
+  .movie-btn {
+    background-color: lightgray;
+    font-size: 20pt;
+    padding: 40px 20px;
+    border-radius: 12px;
+    margin: 15pt;
+  }
+
+  .first-row{
+    position: absolute;
+    margin-left: 30px;
+  }
+
+  .second-row{
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 100pt;
+  }
+
+  .third-row{
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 200pt;
+  }
+
+  .container {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 2%;
+    flex-wrap: wrap;
+  }
+
+  .containerItem {
+    
+    display: grid;
+    grid-auto-flow: column;
+    flex-direction: column;
+    margin-top: 10%;
+  }
+
+  .head {
+    font-family: 'Lucida Console';
+    text-align: center;
+    font-size: 50pt;
+    margin-bottom: 0%;
+    margin-left: 4pt;
+  }
